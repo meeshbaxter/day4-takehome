@@ -1,4 +1,12 @@
 
+.container {
+	background-color:white;
+	width: 1200px;
+}
+.row {
+    margin-right: 5px;
+    margin-left: 5px;
+}
 .black {
 	background-color:black;
 }
@@ -15,7 +23,7 @@
 	height:400px;
 }
 .buffer {
-  margin-right:40px;
+  margin-right:48px;
 }
 .top-buffer{
   margin-top:24px;
